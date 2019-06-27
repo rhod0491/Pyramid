@@ -8,5 +8,4 @@ and thought it would be fun to extend my solution and make it more flexible.
 
 <img src="https://i.imgur.com/aqMrXnq.png" width="50%" />
 <img src="https://i.imgur.com/l5HgLUy.png" width="50%"/>
-<br />
 <img src="https://i.imgur.com/eM7gHbr.png" width="50%" />
