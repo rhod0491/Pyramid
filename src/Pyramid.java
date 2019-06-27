@@ -22,7 +22,7 @@ public class Pyramid {
             triangleHeight = Integer.parseInt(userInputHeight);
             numLevels = Integer.parseInt(userInputLevels);
         } catch (NumberFormatException e) {
-            System.out.println("You may only enter numbers");
+            System.out.println("You may only enter numbers.");
             System.exit(1);
         }
 
